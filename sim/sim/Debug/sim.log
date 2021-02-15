@@ -1,0 +1,31 @@
+﻿  sim.c
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(35): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(528): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(528): warning C4024: 'init_memory': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(529): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(529): warning C4024: 'init_disk': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(530): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(530): warning C4024: 'update_instructions': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(531): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(531): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(532): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(532): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(533): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(533): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(534): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(534): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(535): warning C4018: '<': signed/unsigned mismatch
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(554): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(554): warning C4024: 'write_dmem_out': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(555): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(555): warning C4024: 'write_regout': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(556): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(556): warning C4024: 'write_cycles': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(557): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(557): warning C4024: 'write_diskout': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(558): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(558): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(559): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(559): warning C4024: 'write_monitor_file': different types for formal and actual parameter 1
+c:\users\gai\source\repos\mavmah-proj\sim\sim\sim.c(523): warning C4715: 'handle_cmd': not all control paths return a value
+  sim.vcxproj -> C:\Users\gai\source\repos\Mavmah-Proj\sim\Debug\sim.exe
